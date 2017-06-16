@@ -1,19 +1,21 @@
 .wrapper {
 	width:960px;
 }
-.header {
+body {
+
+	background-image: url("../images/concrete-texture.png");
+}
+header {
 	background-color: #ffffff;
 	border-color: #cccccc;
-}
-.name {
-	background-color: #F0FBF8;
-	
+	height: 100px;
 
 }
-.links {
 
-}
 section {
+	clear: both;
+	background-color: #ffffff;
+	height: 200px;
 
 }
 .about {
@@ -28,5 +30,6 @@ section {
 }
 footer {
 	background-color: #666666;
+	height: 75px;
 
 }
